@@ -1,12 +1,25 @@
-## Hi there 👋
+<h1 align="center">
+  <img alt="Hi I'm Khushi Nilesh Ved" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%2335CD75&size=30&lines=Hi%2C+I'm+Khushi Nilesh+Ved&center=true">
+</h1
+  <p align="center">
+  <a href="https://github.com/khushived">
+    <img src="https://github-readme-stats.vercel.app/api?username=khushived&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Khushi's Github stats" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/khushived">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushived&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" />
+  </a>
+</p>
 
-Hi there 👋 I'm Khushi Nilesh Ved,
-A Computer Science undergrad passionate about Development 📊. I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for 📜 open source, ☁️ Cloud computing, 🆕 Innovation and Automation 🤖
 
-⚡ Fun fact: I strongly believe in the Chaos theory: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-💡 I'm interested in : Big Data, Cloud, Machine Learning and Data Science
-My skills include
-Python C++ C R  MySQL Git Kafka Golang
+<!--
+**a5xwin/a5xwin** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
-A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.
-You miss 100% of the shots you don't take.
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
