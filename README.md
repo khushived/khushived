@@ -1,8 +1,7 @@
 <h1 align="center">
   <img 
     alt="Hi I'm Khushi Nilesh Ved" 
-    title="Hi" 
-    src="http://readme-typing-svg.herokuapp.com?color=%2335CD75&size=25&lines=Hi%2C+I'm+Khushi+Nilesh+Ved&center=true">
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35CD75&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Khushi+Nilesh+Ved">
 </h1>
 
 <p align="center">
