@@ -4,6 +4,6 @@
  
  ## Stats:
 <p align="center">
-<a href="https://github.com/khushived"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nitin320&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nitin320&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/khushived"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khushived&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khushived&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
